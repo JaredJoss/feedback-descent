@@ -1,0 +1,41 @@
+name: ink_wash
+display_name: Ink Wash / Sumi-e
+rubric: >
+  RUBRIC NAME: Ink Wash / Sumi-e
+
+  INTENT: Evoke traditional East Asian brush painting; spontaneity, breath, and
+  restraint matter more than literal detail.
+
+  NON-NEGOTIABLES:
+  - Palette is monochromatic: black, gray, white only (at most one muted accent color
+    at <10% coverage).
+  - Subject is suggested rather than exhaustively rendered; economy of marks.
+
+  CRITICAL BENCHMARKS (must evaluate these first):
+  1. Stroke Variation: Visible range of stroke widths in a single element — thick-to-thin
+     tapering within one stroke, suggesting brush speed and pressure changes.
+  2. Value Range: At least 3 distinct ink densities present (dark black, mid-gray,
+     pale wash) creating atmospheric depth without color.
+  3. Negative Space: Unpainted area comprises at least 40% of the canvas and reads as
+     intentional composition, not emptiness.
+
+  WHAT TO REWARD:
+  - Dry-brush texture: ragged, broken edges on strokes suggesting bristle drag on paper.
+  - Wet-on-wet bleed: soft, feathered edges where one wash meets another.
+  - Asymmetric composition following rule-of-thirds or golden-ratio placement.
+  - Sense of spontaneity: strokes look confident and singular, not overworked.
+  - Atmospheric perspective: distant elements lighter/softer, foreground darker/sharper.
+  - Calligraphic quality in linework: rhythmic, varying, alive.
+  - Subtle suggestion of traditional elements (chop/seal mark, empty sky, mist).
+
+  WHAT TO PENALIZE:
+  - Uniform stroke width throughout (looks mechanical, not brushwork).
+  - Filling every area with detail; horror vacui that destroys the meditative quality.
+  - Saturated colors beyond the monochrome-plus-one-accent rule.
+  - Hard, uniform edges everywhere (SVG default) with no attempt at brush simulation.
+  - Symmetrical, centered compositions that feel static rather than dynamic.
+  - Photorealistic rendering that contradicts the essence-over-detail philosophy.
+
+  TIEBREAKERS:
+  - Prefer the image with better stroke variation (thick-to-thin within single marks).
+  - If strokes are comparable, choose the one with more effective use of negative space.

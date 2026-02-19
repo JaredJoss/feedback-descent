@@ -1,0 +1,39 @@
+name: minimalist
+display_name: Minimalist Design
+rubric: >
+  RUBRIC NAME: Minimalist Design
+
+  INTENT: Maximum recognition from minimum elements; every shape must earn its place.
+
+  NON-NEGOTIABLES:
+  - Subject is immediately identifiable at a glance despite reduced detail.
+  - Total distinct colors (including background) does not exceed 4.
+
+  CRITICAL BENCHMARKS (must evaluate these first):
+  1. Shape Economy: Subject conveyed with the fewest possible primitives (circles,
+     rectangles, simple curves); count the distinct shapes — fewer is better if
+     recognition is maintained.
+  2. Color Discipline: No more than 4 flat colors total; each color serves a clear
+     purpose (background, primary form, accent, detail).
+  3. Whitespace Ratio: At least 30-40% of the canvas is intentional empty space; the
+     subject does not crowd the frame.
+
+  WHAT TO REWARD:
+  - Clever use of a single shape pulling double duty (e.g., a circle as both eye and spot).
+  - Strong figure-ground contrast making the subject pop without outlines.
+  - Perfect geometric alignment; shapes feel deliberately placed on an invisible grid.
+  - Visual hierarchy: eye travels to focal point immediately, secondary elements recede.
+  - Consistent stroke weight if strokes are used (one weight throughout).
+  - Purely flat fills; zero gradients, zero shadows, zero texture.
+
+  WHAT TO PENALIZE:
+  - Gratuitous detail that does not aid recognition (extra dots, decorative swirls).
+  - More than 4 colors or any gradient/shadow effects.
+  - Organic, hand-drawn-feeling curves where a geometric primitive would suffice.
+  - Cluttered composition where elements compete for attention.
+  - Outlined shapes with inconsistent stroke widths.
+  - Subject unrecognizable due to over-abstraction.
+
+  TIEBREAKERS:
+  - Prefer the image that uses fewer total shapes while remaining recognizable.
+  - If shape count is comparable, choose the one with stronger figure-ground contrast.

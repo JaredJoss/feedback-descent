@@ -1,0 +1,43 @@
+name: retro_arcade
+display_name: Retro Arcade / Pixel Art
+rubric: >
+  RUBRIC NAME: Retro Arcade / Pixel Art
+
+  INTENT: Authentic 8-bit/16-bit pixel art aesthetic; the image should look like it
+  could run on period hardware.
+
+  NON-NEGOTIABLES:
+  - All shapes align to a visible or implied square grid; no anti-aliased curves or
+    sub-pixel positioning.
+  - Total palette is 16 colors or fewer, consistent with NES/SNES-era hardware limits.
+
+  CRITICAL BENCHMARKS (must evaluate these first):
+  1. Grid Alignment: All edges snap to a uniform pixel grid; diagonal lines use
+     consistent staircase stepping (e.g., 1:1, 2:1 slopes) without smoothing.
+  2. Palette Count: Count distinct colors — must be <=16. Colors should feel cohesive,
+     as if selected from a single hardware palette (NES, CGA, EGA, or SNES).
+  3. Readability at Low Resolution: Subject is identifiable when mentally scaled to
+     64x64 or 32x32; key features (eyes, limbs, defining silhouette) are clear at
+     pixel scale.
+
+  WHAT TO REWARD:
+  - Clean pixel clusters: each color region is made of axis-aligned rectangles with no
+    stray single pixels (unless intentional highlight/shadow).
+  - Dithering patterns (checkerboard, ordered) to simulate gradients within palette limits.
+  - Bold 1-2px dark outlines around major forms for sprite-like readability.
+  - Characterful expression despite low resolution: recognizable pose, personality.
+  - Consistent pixel density: uniform grid cell size throughout the image.
+  - Period-appropriate color choices: saturated primaries, limited earth tones.
+  - Sprite-sheet quality: the subject looks like a game character that could animate.
+
+  WHAT TO PENALIZE:
+  - Smooth curves, anti-aliased edges, or sub-pixel gradients (breaks the pixel illusion).
+  - More than 16 colors or use of continuous gradients.
+  - Irregular "pixel" sizes (mixing 4px and 7px squares in the same image).
+  - Overly detailed rendering that looks photorealistic rather than pixelated.
+  - Palette choices that feel modern/muted rather than retro/saturated.
+  - Subject unrecognizable due to insufficient pixel resolution.
+
+  TIEBREAKERS:
+  - Prefer the image with stricter grid alignment and cleaner pixel edges.
+  - If grid quality is comparable, choose the one with more character and expressiveness.

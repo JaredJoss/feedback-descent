@@ -1,0 +1,47 @@
+name: stained_glass
+display_name: Stained Glass
+rubric: >
+  RUBRIC NAME: Stained Glass
+
+  INTENT: Convincing stained glass window; the image should look like light passing
+  through leaded, colored glass panels.
+
+  NON-NEGOTIABLES:
+  - Dark lead lines (2-4px, near-black) visibly separate every colored region; no two
+    adjacent color fills touch without a leading boundary.
+  - Subject is decomposed into distinct glass panels; no region uses continuous gradients
+    that would be impossible in real glass.
+
+  CRITICAL BENCHMARKS (must evaluate these first):
+  1. Leading Coverage: Continuous dark outlines form a connected network across the
+     entire composition; no orphan color regions floating without lead borders.
+  2. Panel Discipline: Each bounded region contains a single color or at most a simple
+     two-tone gradient suggesting glass curvature; no photorealistic shading within panels.
+  3. Jewel-Tone Saturation: Primary palette uses deep, saturated hues (cobalt blue,
+     ruby red, emerald green, amber gold, amethyst purple); colors appear rich and
+     luminous, not pastel or muddy.
+
+  WHAT TO REWARD:
+  - Backlit luminosity: colors appear to glow from within, lighter at center of panels,
+    suggesting transmitted light.
+  - Consistent lead-line width throughout (uniform came/leading).
+  - Gothic or Art Nouveau framing: arched top border, decorative corner rosettes, or
+    trefoil motifs.
+  - Hierarchical panel sizes: large panels for major forms, smaller tessellated panels
+    for backgrounds and borders.
+  - Color temperature contrast: warm foreground subjects against cool background glass.
+  - Symmetry or near-symmetry in border/frame elements (not necessarily the subject).
+  - Visible solder joints or came intersections at panel meeting points.
+
+  WHAT TO PENALIZE:
+  - Missing or broken lead lines; adjacent colors blending without separation.
+  - Photorealistic rendering within panels (smooth gradients, detailed textures).
+  - Pastel, desaturated, or neon colors that don't read as stained glass.
+  - Uniform panel sizes throughout (real windows vary panel size with form).
+  - No framing element; the composition floats without a window border.
+  - Lead lines that vary wildly in width (suggests inconsistent craft).
+
+  TIEBREAKERS:
+  - Prefer the image with more complete and consistent lead-line networks.
+  - If leading is comparable, choose the one with richer jewel-tone saturation and
+    stronger backlit luminosity.
